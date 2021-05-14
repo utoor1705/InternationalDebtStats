@@ -1,4 +1,4 @@
-##InternationalDebtStats
+## InternationalDebtStats ##
 
 In this project, we will analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015. The project will focus on the following elements;
 
